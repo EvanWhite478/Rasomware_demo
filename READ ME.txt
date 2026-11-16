@@ -1,0 +1,4 @@
+This is an example of how Ransomewear works
+FOR EDUCATIONAL PURPOSES ONLY!!!
+
+This program uses RSA and AES-GCM for hybrid encryption
